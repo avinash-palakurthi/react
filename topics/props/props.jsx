@@ -1,4 +1,4 @@
-import Card from "../../topics/props/Card";
+import Card from "./Card";
 
 const user1 = {
 	id: 1,
