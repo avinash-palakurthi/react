@@ -44,7 +44,7 @@ const Header = () => {
 					</p>
 				</div>
 				{/* cart */}
-				<div tooltip="cart">
+				<div>
 					<CiShoppingCart
 						size={25}
 						className="text-amber-200 "
