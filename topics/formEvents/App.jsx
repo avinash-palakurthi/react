@@ -1,9 +1,9 @@
-import ArrObjMethod from "./ArrayObjectMethod/ArrObjMethod";
+import FormExampleOne from "../topics/formEvents/FormExampleOne";
 
 function App() {
 	return (
 		<div className="bg-black h-lvh text-white  w-full  ">
-			<ArrObjMethod />
+			<FormExampleOne />
 		</div>
 	);
 }
