@@ -1,8 +1,8 @@
-import ArrObjMethod from "./ArrayObjectMethod/ArrObjMethod";
+import ArrObjMethod from "./NestedArrayObjectMethod/NestedArrObjMethod";
 
 function App() {
 	return (
-		<div className="bg-black h-lvh text-white  w-full  ">
+		<div className="bg-black h-max text-white  w-full  ">
 			<ArrObjMethod />
 		</div>
 	);
